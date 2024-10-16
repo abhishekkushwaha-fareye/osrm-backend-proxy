@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+coverage/
+*.lcov
+
+# Temporary files
+tmp/
+temp/
+.cache/
+
+# Miscellaneous
+*.tgz
+*.gz
+*.zip
